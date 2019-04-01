@@ -13,7 +13,7 @@ public class Aplikasi {
         lblnama.setText("Kukuh Aji Santoso");
        // frame.add(lblnama, BorderLayout.WEST);
         JLabel lblNim =new JLabel();
-        lblNim.setText("19090059");
+        lblNim.setText("17090059");
 
         JButton btnSimpan =new JButton("Simpan");
         frame.add(btnSimpan, BorderLayout.EAST);
